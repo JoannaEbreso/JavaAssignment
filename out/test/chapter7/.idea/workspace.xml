@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e3df5991-7bf0-404c-9e72-b1ac5a38cfa8" name="Default Changelist" comment="" />
+    <list default="true" id="e3df5991-7bf0-404c-9e72-b1ac5a38cfa8" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/out/production/chapter7/AirlineReservation.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/chapter7/AirlineReservation.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/chapter7/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/chapter7/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/chapter7/AirlineReservation.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/chapter7/AirlineReservation.class" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,15 +17,26 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="JUnit5 Test Class" />
+        <option value="Class" />
       </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="C:\Users\DELL USA\IdeaProjects\chapter7\.idea" />
+      </set>
     </option>
   </component>
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="1" />
   </component>
   <component name="ProjectId" id="1eLyANO3S6yLP89c3mB80NF8qL2" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -35,10 +50,11 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="configurable.group.editor" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
@@ -48,26 +64,49 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager">
-    <configuration name="ArrayTest.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Application.KnightTourDriver">
+    <configuration name="AirlineReservation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AirlineReservation" />
       <module name="chapter7" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="test.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="test" />
-      <option name="MAIN_CLASS_NAME" value="test.ArrayTest" />
-      <option name="METHOD_NAME" value="test" />
-      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AirlineReservationTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AirlineReservationTest" />
+      <module name="chapter7" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DiceRolling" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DiceRolling" />
+      <module name="chapter7" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="KnightTourDriver" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="KnightTourDriver" />
+      <module name="chapter7" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SevenPointNine" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SevenPointNine" />
+      <module name="chapter7" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.ArrayTest.test" />
+        <item itemvalue="Application.KnightTourDriver" />
+        <item itemvalue="Application.SevenPointNine" />
+        <item itemvalue="Application.AirlineReservation" />
+        <item itemvalue="Application.AirlineReservationTest" />
+        <item itemvalue="Application.DiceRolling" />
       </list>
     </recent_temporary>
   </component>
@@ -85,37 +124,49 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="413" y="159" key="#com.intellij.ide.util.PackageChooserDialog" timestamp="1594115136633">
+    <state x="413" y="159" key="#com.intellij.ide.util.PackageChooserDialog" timestamp="1594341165495">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state x="413" y="159" key="#com.intellij.ide.util.PackageChooserDialog/0.0.1366.768@0.0.1366.768" timestamp="1594115136633" />
-    <state width="1323" height="171" key="GridCell.Tab.0.bottom" timestamp="1594115467871">
+    <state x="413" y="159" key="#com.intellij.ide.util.PackageChooserDialog/0.0.1366.768@0.0.1366.768" timestamp="1594341165495" />
+    <state x="474" y="224" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1594346612070">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1323" height="171" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1594115467871" />
-    <state width="1323" height="171" key="GridCell.Tab.0.center" timestamp="1594115467871">
+    <state x="474" y="224" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1366.768@0.0.1366.768" timestamp="1594346612070" />
+    <state x="463" y="138" key="FileChooserDialogImpl" timestamp="1594317088712">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1323" height="171" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1594115467871" />
-    <state width="1323" height="171" key="GridCell.Tab.0.left" timestamp="1594115467870">
+    <state x="463" y="138" key="FileChooserDialogImpl/0.0.1366.768@0.0.1366.768" timestamp="1594317088712" />
+    <state width="1323" height="171" key="GridCell.Tab.0.bottom" timestamp="1594739213785">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1323" height="171" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1594115467870" />
-    <state width="1323" height="171" key="GridCell.Tab.0.right" timestamp="1594115467871">
+    <state width="1323" height="171" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1594739213785" />
+    <state width="1323" height="171" key="GridCell.Tab.0.center" timestamp="1594739213785">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1323" height="171" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1594115467871" />
-    <state x="163" y="0" key="SettingsEditor" timestamp="1594115050016">
+    <state width="1323" height="171" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1594739213785" />
+    <state width="1323" height="171" key="GridCell.Tab.0.left" timestamp="1594739213784">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state x="163" y="0" key="SettingsEditor/0.0.1366.768@0.0.1366.768" timestamp="1594115050016" />
+    <state width="1323" height="171" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1594739213784" />
+    <state width="1323" height="171" key="GridCell.Tab.0.right" timestamp="1594739213785">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1323" height="171" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1594739213785" />
+    <state x="163" y="0" key="SettingsEditor" timestamp="1594346409629">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="163" y="0" key="SettingsEditor/0.0.1366.768@0.0.1366.768" timestamp="1594346409629" />
+    <state x="499" y="161" key="chooseDestDirectoryDialog" timestamp="1594137943612">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="499" y="161" key="chooseDestDirectoryDialog/0.0.1366.768@0.0.1366.768" timestamp="1594137943612" />
     <state x="388" y="272" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1594115128168">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="388" y="272" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1366.768@0.0.1366.768" timestamp="1594115128168" />
-    <state x="454" y="60" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1594115142083">
+    <state x="454" y="60" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1594341173756">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state x="454" y="60" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1366.768@0.0.1366.768" timestamp="1594115142083" />
+    <state x="454" y="60" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1366.768@0.0.1366.768" timestamp="1594341173756" />
   </component>
 </project>
